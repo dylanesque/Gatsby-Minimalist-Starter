@@ -1,3 +1,16 @@
+/*
+ Step 1: Define initial sizing scale
+
+ Step 2: Define initial font scale
+
+ Step 3: Define initial color scales, one for color, one for black and white.
+
+ Step 4: Select typefaces. Favor sans-serif for UI components, and try to select typesfaces with a
+ minimum of 5 weights. That said, you really only need heavy and normal weights in your UI.
+
+ 
+*/
+
 html, body {
   box-sizing: border-box;
   margin: 0;

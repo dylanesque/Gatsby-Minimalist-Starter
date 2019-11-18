@@ -21,6 +21,7 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "gatsby-plugin-emotion": "^4.1.15",
     "prettier": "^1.19.1"
   },
   "keywords": [
