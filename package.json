@@ -1,6 +1,6 @@
 {
   "name": "gatsby-minimalist-default",
-  "private": true,
+  "private": false,
   "description": "A minimalist starter with less boilerplate and more guidance for initial design and layout decisions.",
   "version": "1.0.0",
   "author": "Michael S. Caveney",
