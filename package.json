@@ -2,7 +2,7 @@
   "name": "gatsby-minimalist-default",
   "private": true,
   "description": "A minimalist starter with less boilerplate and more guidance for initial design and layout decisions.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Michael S. Caveney",
   "dependencies": {
     "@emotion/core": "^10.0.22",
@@ -30,6 +30,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "clean": "gatsby clean",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
