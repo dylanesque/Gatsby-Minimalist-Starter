@@ -5,3 +5,9 @@ This starter is for developers who prefer a more blank slate than the `gatsby-de
 -Initial setup for [Emotion](https://emotion.sh/docs/introduction)
 
 -A leaner `layout.css` that also has a small checklist to assist with initial scales for whatever design system you're implementing.
+
+# Getting Started
+
+- `git clone git@github.com:dylanesque/Gatsby-Minimalist-Starter.git`
+- `cd Gatsby-Minimalist-Starter`
+- `yarn install && gatsby develop`
