@@ -8,6 +8,6 @@ This starter is for developers who prefer a more blank slate than the `gatsby-de
 
 # Getting Started
 
-- `git clone git@github.com:dylanesque/Gatsby-Minimalist-Starter.git`
-- `cd Gatsby-Minimalist-Starter`
-- `yarn install && gatsby develop`
+- `gatsby new my-new-site dylanesque/Gatsby-Minimalist-Starter`
+- `cd my-new-site`
+- `gatsby develop`
