@@ -16,6 +16,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-emotion`,
+    `gatsby-plugin-playground`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

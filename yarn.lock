@@ -5412,6 +5412,15 @@ gatsby-plugin-page-creator@^2.1.31:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
+gatsby-plugin-playground@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-playground/-/gatsby-plugin-playground-1.0.6.tgz#15108395cbfd0795cbd6698a21e123ed6e571a93"
+  integrity sha512-YaDPi2xz6xbIiouvIikOTzJ8MxcBtGfcgoDEVYYVZ6qe1mSyNOK4h6RPtdtnkCWbP1mDTtH3BJU3pf5Rp1TcPg==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    graphql-playground-middleware-express "^1.7.8"
+    lodash "^4.17.10"
+
 gatsby-plugin-react-helmet@^3.1.14:
   version "3.1.15"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.1.15.tgz#0f81ec0106e86ac2d44cb714a79a3a928e5c40a6"
@@ -5966,7 +5975,7 @@ graphql-playground-html@1.6.12:
   resolved "https://registry.yarnpkg.com/graphql-playground-html/-/graphql-playground-html-1.6.12.tgz#8b3b34ab6013e2c877f0ceaae478fafc8ca91b85"
   integrity sha512-yOYFwwSMBL0MwufeL8bkrNDgRE7eF/kTHiwrqn9FiR9KLcNIl1xw9l9a+6yIRZM56JReQOHpbQFXTZn1IuSKRg==
 
-graphql-playground-middleware-express@^1.7.12:
+graphql-playground-middleware-express@^1.7.12, graphql-playground-middleware-express@^1.7.8:
   version "1.7.12"
   resolved "https://registry.yarnpkg.com/graphql-playground-middleware-express/-/graphql-playground-middleware-express-1.7.12.tgz#de4b2402a02159b2125561fe38eb378b56cf6d99"
   integrity sha512-17szgonnVSxWVrgblLRHHLjWnMUONfkULIwSunaMvYx8k5oG3yL86cyGCbHuDFUFkyr2swLhdfYl4mDfDXuvOA==
@@ -7518,7 +7527,7 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@^4.11.1, lodash@^4.15.0, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
+lodash@^4.11.1, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
